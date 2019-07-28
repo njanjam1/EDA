@@ -1,0 +1,1 @@
+This folder contain the code which will help to PCA - Prinicipal Component Analysis in R

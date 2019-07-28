@@ -1,0 +1,1 @@
+This folder contain the code which will help to organise data in R in a consistent way, an organisation called tidy data using Tidyverse package.

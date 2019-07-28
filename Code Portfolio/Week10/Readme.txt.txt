@@ -1,0 +1,1 @@
+This folder contain the code which will help to understand K mean clustering algorithm in R
